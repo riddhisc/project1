@@ -16,6 +16,8 @@ import EventDetails from './pages/staff/EventDetails';
 import MyEvents from './pages/staff/MyEvents';
 import Networking from './pages/staff/Networking';
 import NotFound from './pages/NotFound';
+
+import './assets/styles/variables.css';
 import './assets/styles/global.css';
 
 function App() {

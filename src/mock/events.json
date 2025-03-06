@@ -1,0 +1,26 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Annual Tech Conference",
+      "description": "Largest technology conference of the year",
+      "date": "2024-09-15",
+      "time": "09:00 AM",
+      "location": "San Francisco Convention Center",
+      "capacity": 500,
+      "registeredParticipants": 250,
+      "status": "upcoming"
+    },
+    {
+      "id": 2,
+      "title": "Design Thinking Workshop",
+      "description": "Intensive design thinking and innovation workshop",
+      "date": "2024-07-20",
+      "time": "10:00 AM",
+      "location": "New York Creative Hub",
+      "capacity": 100,
+      "registeredParticipants": 75,
+      "status": "upcoming"
+    }
+  ]
+}
